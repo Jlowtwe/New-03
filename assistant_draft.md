@@ -6,3 +6,11 @@ I work in tech, and one of the problems I care most deeply about is fostering mo
 
 - Generative AI can introduce ideas for placemaking, community, and people building together.
 
+
+
+
+Notes: 
+- Exact Coding Assistant Prompt: create a document for the assistant_draft file, the document should be titled A new Introduction. The document should contain a short paragraph saying that I am a designer and my industry. Include a second short paragraph that I work in tech and a problem I care about is having more empathy in the world. Add a bullet that says generative AI can introduce ideas for placemaking, community, and people building together.
+
+- What went well: The assistant did well at communicating the tone of my career highlights and formulating sentences to explain my industry in a clear and concise format.
+- In regards to the output of the introduction I would reomve spatial experiences and replace with user experiences. 
