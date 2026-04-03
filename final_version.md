@@ -13,3 +13,9 @@ What went well: The assistant did well at communicating the tone of my career hi
 
 In regards to the output of the introduction I would reomve spatial experiences and replace with user experiences.
 
+Notes:
+What I changed: I changed the second sentence by replacing spatial experiences with user experiences. I also changed the bullet point of 3 wyas Generative AI might be useful for design.
+
+Why I Changed it: I changed it because spacial design was relevant and the Generative AI bullet point needed more supporting text.
+
+What the assistant Wrote: Generally the assistant perfomed well, I only changed the second sentence and generative ai bullet point to make the work more seamless.
